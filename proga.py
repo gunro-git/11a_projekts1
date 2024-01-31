@@ -1,1 +1,2 @@
-Print('Čau!')
+print('Čau!')
+print('aha')
